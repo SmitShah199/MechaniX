@@ -1,4 +1,4 @@
-# TK-107446 E-commerce on MERN
+# MechaniX
 
 ***
 ## Used Technologies
