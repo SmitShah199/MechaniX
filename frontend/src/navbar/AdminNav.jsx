@@ -73,7 +73,7 @@ const AdminNav = () => {
             </ul>
 
             <div class="flex items-center gap-20">
-                <Link className="text-lg font-bold" to={"/mechanichome"}>
+                <Link className="text-lg font-bold" to={"/adminhome"}>
                     Home
                 </Link>
                 <Link className="text-lg font-bold" to={"/customers"}>
