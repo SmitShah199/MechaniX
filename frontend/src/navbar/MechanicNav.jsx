@@ -73,7 +73,7 @@ const MechanicNav = () => {
             </ul>
 
             <div class="flex items-center gap-20">
-                <Link className="text-lg font-bold" to={"/"}>
+                <Link className="text-lg font-bold" to={"/mechanichome"}>
                     Home
                 </Link>
                 <Link className="text-lg font-bold" to={"/profile"}>
